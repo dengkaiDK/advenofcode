@@ -1,8 +1,6 @@
 # code solution for day 10
 # Time 2022-09-11
 
-import copy
-
 
 class Solution:
     def __init__(self):
